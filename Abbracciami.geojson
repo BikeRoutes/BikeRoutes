@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "AbbracciaMI (draft 2)",
+                "name": "AbbracciaMI",
                 "type": "1"
             },
             "geometry": {
