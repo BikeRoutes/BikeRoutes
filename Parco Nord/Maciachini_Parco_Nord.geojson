@@ -5,12 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Parco Nord",
-        "type": "Ride",
-        "links": [
-          {
-            "href": "https://www.strava.com/routes/14221673"
-          }
-        ]
+        "type": "Ride"
       },
       "geometry": {
         "type": "LineString",
