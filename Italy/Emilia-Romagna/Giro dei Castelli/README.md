@@ -1,7 +1,7 @@
 # Giro dei Castelli
 
 A bike route on the hills near Quattro Castella.
-The uphillp section after Ciano is steep, but you will be rewarded by a stunning view of some of the medieval castels of the area.
+The uphill section after Ciano is steep, but you will be rewarded by a stunning view of some of the medieval castels of the area.
 
 ![Castello di Rossena](https://user-images.githubusercontent.com/6418684/78424639-30c6be00-766f-11ea-98e4-ffe3ac04adad.jpg)
 
