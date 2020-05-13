@@ -14,11 +14,21 @@ To contribute to the explorer app, refer to https://github.com/BikeRoutes/Explor
 ### How to export data from other platforms
 A brief guide to help you export your routes from other platforms
 
-If the export is in GPX, refer to [GPX to GeoJSON](https://github.com/BikeRoutes/BikeRoutes#gpx-to-geojson) to convert it in GeoJSON, the only supported format of this project
+#### Strava Activity
+1. Open an activity on the Strava website
+2. Click on "..." in the left sidebar
+3. Click "Export GPX"
+4. Convert it to geoJSON
 
-#### Strava
-1. Open an activity
-2. Click on the "GPX" button over the map
+#### Strava Route
+It's often worth converting a Strava Activity to a Strava Route before exporting it, because in this way you can leverage the powerful Strava Route editor to refine your route details.
+
+1. Open an activity on the Strava website
+2. Click on "..." in the left sidebar
+3. Click "Create Route"
+4. Edit your route using the Route Editor
+5. Click "Export GPX"
+6. Convert it to geoJSON
 
 ### Tools to view and edit GeoJSON
 - http://geojson.io
@@ -26,6 +36,3 @@ If the export is in GPX, refer to [GPX to GeoJSON](https://github.com/BikeRoutes
 
 ### GPX to GeoJSON
 You can easily convert a GPX to geoJSON with https://mapbox.github.io/togeojson/
-
-
-
