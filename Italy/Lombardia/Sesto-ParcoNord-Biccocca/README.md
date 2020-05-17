@@ -1,4 +1,4 @@
-# Industrial archaeology in Milan.
+# Industrial archaeology in Milan
 
 With this short urban trip you'll have the chance to admire the massive industrial archaeology landmark of Carroponte.
 

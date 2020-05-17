@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Via Padova - Via Valtorta - Via Nuoro - Piazza Indro Montanelli - Viale Giovanni Suzzani - Via Padova"
+                "name": "Industrial archaeology in Milan"
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -3603,90 +3603,6 @@
                             45.49545
                         ]
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.4956355,9.2287449",
-                "desc": "Via Padova, 95-93, 20127 Milano MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2287449,
-                    45.4956355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.5004455,9.2295767",
-                "desc": "Via Valtorta, 57, 20127 Milano MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2295767,
-                    45.5004455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.5044336,9.2303477",
-                "desc": "Via Nuoro, 11, 20128 Milano MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2303477,
-                    45.5044336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.5225366,9.2311463",
-                "desc": "Piazza Indro Montanelli, 32, 20099 Sesto San Giovanni MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2311463,
-                    45.5225366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.5293833,9.2064559",
-                "desc": "Viale Giovanni Suzzani, 295, 20099 Sesto San Giovanni MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2064559,
-                    45.5293833
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "45.4956355, 9.2287449",
-                "desc": "Via Padova, 95-93, 20127 Milano MI, Italy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.2287449,
-                    45.4956355
                 ]
             }
         }
