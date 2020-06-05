@@ -1,4 +1,4 @@
-# AbbracciaMI
+# AbbracciaMI (antiorario)
 
 AbbracciaMI is a cycling ring around Milano, conceived by Milano Bicycle Coalition.
 
