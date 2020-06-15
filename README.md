@@ -1,6 +1,6 @@
 # Bike Routes
 
-A free and open source database of bike routes
+A free and open source database of bike routes.
 
 The routes can be easily explored with our application: https://bikeroutes.github.io/Explorer/
 
@@ -8,24 +8,26 @@ The routes can be easily explored with our application: https://bikeroutes.githu
 
 Please do :)
 
-This project is open source: you can propose any change or addition by opening a pull request
+This project is open source: you can propose any change or addition by opening a pull request.
 
-To contribute to the explorer app, refer to https://github.com/BikeRoutes/Explorer
+This repository contains all the route data, so you should open a pull request here if you want to add or modify a route.
 
-### How to export data from other platforms
+To contribute to the "Explorer" app, refer instead to https://github.com/BikeRoutes/Explorer
 
-A brief guide to help you export your routes from other platforms
+## How to export data from Strava
 
-#### Strava Activity
+### Strava Activity
 
 1. Open an activity on the Strava website
 2. Click on "..." in the left sidebar
 3. Click "Export GPX"
 4. Convert it to geoJSON
 
-#### Strava Route
+### Strava Route
 
 It's often worth converting a Strava Activity to a Strava Route before exporting it, because in this way you can leverage the powerful Strava Route editor to refine your route details.
+
+_Unfortunately the Route Editor is now only available to Strava paying subscribers. [Bikemap](https://www.bikemap.net/) offers a similar route editor for free._
 
 1. Open an activity on the Strava website
 2. Click on "..." in the left sidebar
@@ -34,15 +36,14 @@ It's often worth converting a Strava Activity to a Strava Route before exporting
 5. Click "Export GPX"
 6. Convert it to geoJSON
 
-### Tools to view and edit GeoJSON
+## Useful tools
 
-- http://geojson.io
-- https://umap.openstreetmap.fr/en/map/new
+* You can easily convert a GPX file to geoJSON with [toGeoJSON](https://mapbox.github.io/togeojson/)
 
-### GPX to GeoJSON
+* If you plan a route using Google Maps, you can use [GPS Visualizer](https://www.gpsvisualizer.com/convert_input) to convert it to GPX
 
-You can easily convert a GPX to geoJSON with https://mapbox.github.io/togeojson/
+* [Bikemap](https://www.bikemap.net/) has a powerful visual route editor that can import and export GPX files
 
-### GoogleMaps url to GPX
+* [geojson.io](https://geojson.io) is a simple geoJSON web viewer with limited editing functionalities
 
-- https://www.gpsvisualizer.com/convert_input (requires GMaps API Key)
+* [uMap](https://umap.openstreetmap.fr/en/) is a more advanced map editor that supports geoJSON
