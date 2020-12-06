@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Balu Abbraccia Milano (100k)"
+                "name": "Abbraccia Milano (100k)"
             },
             "geometry": {
                 "type": "LineString",
